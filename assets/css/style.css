@@ -14,4 +14,5 @@ footer .iconos {
 }
 #logo-texto {
     text-align: justify;
+    text-justify: auto;
 }
