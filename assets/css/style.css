@@ -8,6 +8,7 @@ body {
 
 nav {    
     overflow: visible;
+    text-decoration: white;
 }
 footer .iconos {
     text-align: right;
