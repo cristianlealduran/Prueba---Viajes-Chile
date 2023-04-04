@@ -1,7 +1,7 @@
 body {
     margin: 0;
     padding: 0;
-    font-family: raleway;
+    font-family: 'Roboto', sans-serif;
     background-color: black;
     text-align: center;
 }
@@ -12,7 +12,7 @@ nav {
 footer .iconos {
     text-align: right;
 }
-#logo-texto {
-    text-align: justify;
-    text-justify: auto;
+#logo-texto  svg{
+    background-color: aqua;
+    color: aqua;
 }
