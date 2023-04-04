@@ -1,0 +1,14 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: raleway;
+    background-color: black;
+    text-align: center;
+}
+
+nav {    
+    overflow: visible;
+}
+footer .iconos {
+    text-align: right;
+}
